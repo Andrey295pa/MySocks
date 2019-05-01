@@ -1,0 +1,1 @@
+mvn -pl :WebServiceSocks jetty:run -f pom.xml
